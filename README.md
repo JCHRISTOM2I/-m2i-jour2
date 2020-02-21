@@ -1,3 +1,11 @@
-# -m2i-jour2
+La « théorie des équations » est une expression utilisée en histoire des sciencesADD 1.
+
+L’étude de ce type de questions remonte aux premiers textes mathématiques connusNote 2. Une première approche permet de résoudre l’équation dans le cas où le degré du polynôme est strictement plus petit que cinq. C'est durant la Renaissance et avec l'étude des équations cubiques que de nouveaux nombres sont utilisésNote 3. Ils sont qualifiés initialement d’imaginaires puis de nombres complexes. Ce n'est que plus tard que ceux-ci interviennent comme solutions d’équations de degré deux.
+
+À partir de l'époque moderne, le polynôme est aussi considéré comme une fonction appelé fonction polynomiale. Cette approche offre des méthodes pour déterminer le nombre de racines réelles, pour localiser les racines (c’est-à-dire trouver des régions où elles se trouvent) et pour fournir des méthodes d’approximations aussi précises que souhaité. L’un de ses achèvements est le théorème de d'Alembert-Gauss, qui indique qu’une fonction polynomiale non constante admet au moins une racine dans les nombres complexes.
+PAS CONTENT
+Un point de vue du xixe siècle consiste à étudier le plus petit ensemble de nombres, stable pour les quatre opérations et qui contienne à la fois coefficients et racines d'une équation donnée. Cette approche entre dans la théorie dite de Galois. Elle offre une condition nécessaire et suffisante pour savoir si une équation polynomiale se résout par les techniques décrites par la première approche, dans le cas contraire l’on doit se limiter à des approximations issues de l’analyse. Jusqu’au xixe siècle, la théorie des équations se confond avec l’algèbre. Puis, à la suite de la théorie de Galois principalement, l’algèbre s’élargit pour prendre en compte de nouvelles questions. Cette théorie est à l’origine de vastes domaines mathématiques, comme la théorie des groupes, celle des anneaux ou encore la géométrie algébrique.
+
+Remarque : Quand on ne précise pas, le terme de théorie des équations désigne généralementNote 4 les équations polynomiales2. En revanche, il existe de nombreuses équations qui, sans être algébriques, font néanmoins l’objet d’une théorie. L’usage veut alors que l’on précise la nature de l’équation, comme dans l’expression théorie des équations différentielles3. Il n’existe pas de théorie unique s’appliquant à tout type d’équations, elles forment pour cela un ensemble trop disparate.# -m2i-jour2
 
 MODIF
